@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @shrihari099
-- 👀 I’m interested in Software Development Engineer
-- 🌱 I’m currently learning JAVA/SELENIUM/Matlab
-- 💞️ I’m looking to collaborate on WEB-AUTOMATION PROJECT
+- 👀 I’m Embedded Developer
 - 📫 How to reach me shriharivaidya099@gmail.com
 
 <!---
